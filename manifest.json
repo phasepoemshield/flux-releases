@@ -31,9 +31,9 @@
       "note": "",
       "recommended": false,
       "jar": {
-        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-17-5594c22/fluxvisuals-beta.jar",
-        "sha256": "485df6222600aed38396ea6a53b80217c7d42263258a0cf841d4d6ba8542f565",
-        "size": 63859243
+        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-17-9ea69c09/fluxvisuals-beta.jar",
+        "sha256": "b8fea35c3258eb0bda18ea5ec63e817f15da1093655e6253e146557b886064a0",
+        "size": 63859282
       }
     }
   ]
