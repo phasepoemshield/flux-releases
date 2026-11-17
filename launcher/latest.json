@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "Первая версия Flux Visuals Launcher",
-  "pub_date": "2026-11-17T13:58:43Z",
+  "version": "0.1.1",
+  "notes": "Иконка Flux у установщика",
+  "pub_date": "2026-11-17T14:12:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDhmZnJpQk5KczhtY3MxZDdrcDNBMFhYaXF4cll6aHBMTmNIYmJHeWo0azlkak1CZ3ZHVTNHV0UzNkhUWFg4anA3bHNHdEh2N1Nyc0tDRWMvRDNXRmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIzODExCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKZ2xqbndyaVo4R1ZaM1pFMFpoVk56THh5b1pGazQrbExmNlBIaUhEU09JTlczMWc2UHdaaFZzM3M2RHlHSmFmNXdOdmhtMTgxV20wVmZOeWtJSEpXRHc9PQo=",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.0/FluxLauncher-0.1.0-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHhBYmh0d2tJcERjdXZta2MwSk5LQVZNcnlBNnZJUm13TWV2NDQ3ZmxwZlQ0dmRDUzhMdWt5T1kwQzF5SDFjT2pHVll6OE1FUjR0UkhrR2pybW9iMlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTI0NjExCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKYmYyNTNQZUtaemE3WmRKS214cGhmMmIwc0ZrNXFyNEp5V2VQdUdHMUV6VGFuMjR5SVovamc0RkV2MWg5cTRvU2RCSDRWS0dPazRjeUFBQS9ScUwzQVE9PQo=",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.1/FluxLauncher-0.1.1-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDl1c3czMG96R2g0OU1KbFdubWtSd0NwdnJwcFdybXR2VVlTZHhWSkdkMWd4Qml0OW16c0p1NnRRM20wMTRrVzh6UmYrbXMzbFJlUERwZmdGV2lVdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIzOTE5CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKRHlvYnJiVExsYjRaVTFRaU1QZ0tWMkx2bUNsM3E0VFBWMGwyTFJWSDFkYW9iSlhsaTRSOW9IcUl1ZmJiREwvMkU2Q0tIRHFvdDZHbStOaDk2eXBnQmc9PQo=",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.0/FluxLauncher-0.1.0-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDJObEdEY0lvRzRqQ0FYTWh6a1daSUY4eSt2bDhVRHB0aGpiWHdEMHFtVkNjMU9OVkpabHEzMGVMMkdYWWVTN0orbmEwS3QrU1MwcW1ub0prVDlhV1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTI0NzI0CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKNGc4bE9SUW84NTF2OW55L2c2Zkk0K3daNVQwQnEzbnlWSTA3SnhlZ2l4UWVadjFmTitMTXRxcEdXOWZYQzd1Z3Jpbnoremw2Z2RnM3hFcHpEdCtnRHc9PQo=",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.1/FluxLauncher-0.1.1-windows-x64-setup.exe"
     }
   }
 }
