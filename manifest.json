@@ -5,10 +5,10 @@
       "label": "3.1",
       "title": "Flux 3.1",
       "channel": "stable",
-      "minecraft": "1.21.11",
+      "minecraft": "1.21.8",
       "fluxVersion": "3.1.0",
       "loader": "0.18.6",
-      "fabricApi": "0.141.6+1.21.11",
+      "fabricApi": "0.134.0+1.21.8",
       "scene": "canyon",
       "note": "Стабильная версия для каждого дня.",
       "recommended": true,
@@ -20,13 +20,17 @@
       "title": "Flux 3.0",
       "channel": "legacy",
       "minecraft": "1.21.8",
-      "fluxVersion": "3.1.0",
+      "fluxVersion": "3.0.0",
       "loader": "0.18.6",
       "fabricApi": "0.134.0+1.21.8",
       "scene": "cherry",
       "note": "Для серверов, которые остались на 1.21.8.",
       "recommended": false,
-      "jar": null
+      "jar": {
+        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/v3.0.0/fluxvisuals-3.0.0.jar",
+        "sha256": "942fadb985fca1f0f8e897a639409c86e32fd44686470f7f50c46900546d70c1",
+        "size": 51862663
+      }
     },
     {
       "id": "beta",
@@ -40,7 +44,11 @@
       "scene": "polar",
       "note": "Новое раньше всех, но бывают ошибки.",
       "recommended": false,
-      "jar": null
+      "jar": {
+        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-17-5594c22/fluxvisuals-beta.jar",
+        "sha256": "485df6222600aed38396ea6a53b80217c7d42263258a0cf841d4d6ba8542f565",
+        "size": 63859243
+      }
     }
   ]
 }
