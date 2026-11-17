@@ -7,10 +7,10 @@ the sha256 in the manifest before installing it.
 The Flux source code is not in this repository.
 
 <!-- launcher -->
-## Flux Launcher 0.1.11
+## Flux Launcher 0.1.12
 
-- Windows: [FluxLauncher.exe](https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.11/FluxLauncher.exe)
-- macOS (Apple Silicon): [FluxLauncher.dmg](https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.11/FluxLauncher.dmg)
+- Windows: [FluxLauncher.exe](https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.12/FluxLauncher.exe)
+- macOS (Apple Silicon): [FluxLauncher.dmg](https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.12/FluxLauncher.dmg)
 
 Install once; the launcher updates itself and Flux.
 <!-- /launcher -->
