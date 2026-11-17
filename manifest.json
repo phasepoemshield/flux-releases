@@ -1,35 +1,17 @@
 {
   "versions": [
     {
-      "id": "3.1",
-      "label": "3.1",
-      "title": "Flux 3.1",
-      "channel": "stable",
-      "minecraft": "1.21.8",
-      "fluxVersion": "3.1.0",
-      "loader": "0.18.6",
-      "fabricApi": "0.134.0+1.21.8",
-      "scene": "canyon",
-      "note": "Стабильная версия для каждого дня.",
-      "recommended": true,
-      "jar": {
-        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/v3.1.0/fluxvisuals-3.1.0.jar",
-        "sha256": "95e425b08f6eebeca2113c1f22f1b912a59548e177074b82e41e4ca9cfdf54a9",
-        "size": 63186650
-      }
-    },
-    {
       "id": "3.0",
       "label": "3.0",
       "title": "Flux 3.0",
-      "channel": "legacy",
+      "channel": "stable",
       "minecraft": "1.21.8",
       "fluxVersion": "3.0.0",
       "loader": "0.18.6",
       "fabricApi": "0.134.0+1.21.8",
       "scene": "cherry",
-      "note": "Для серверов, которые остались на 1.21.8.",
-      "recommended": false,
+      "note": "",
+      "recommended": true,
       "jar": {
         "url": "https://github.com/phasepoemshield/flux-releases/releases/download/v3.0.0/fluxvisuals-3.0.0.jar",
         "sha256": "942fadb985fca1f0f8e897a639409c86e32fd44686470f7f50c46900546d70c1",
@@ -38,15 +20,15 @@
     },
     {
       "id": "beta",
-      "label": "β",
-      "title": "Flux Beta",
+      "label": "3.1",
+      "title": "Flux 3.1 Beta",
       "channel": "beta",
       "minecraft": "1.21.11",
       "fluxVersion": "3.1.0",
       "loader": "0.18.6",
       "fabricApi": "0.141.6+1.21.11",
       "scene": "polar",
-      "note": "Новое раньше всех, но бывают ошибки.",
+      "note": "",
       "recommended": false,
       "jar": {
         "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-17-5594c22/fluxvisuals-beta.jar",
