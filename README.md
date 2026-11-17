@@ -5,3 +5,12 @@ release carries the matching `fluxvisuals-<version>.jar`. The launcher checks ev
 the sha256 in the manifest before installing it.
 
 The Flux source code is not in this repository.
+
+<!-- launcher -->
+## Flux Launcher 0.1.0
+
+- Windows: [FluxVisualsLauncher.exe](https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.0/FluxVisualsLauncher.exe)
+- macOS (Apple Silicon): [FluxVisualsLauncher.dmg](https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.0/FluxVisualsLauncher.dmg)
+
+Install once; the launcher updates itself and Flux.
+<!-- /launcher -->

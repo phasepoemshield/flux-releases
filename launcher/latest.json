@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "Первая версия Flux Visuals Launcher",
+  "pub_date": "2026-11-17T13:58:43Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDhmZnJpQk5KczhtY3MxZDdrcDNBMFhYaXF4cll6aHBMTmNIYmJHeWo0azlkak1CZ3ZHVTNHV0UzNkhUWFg4anA3bHNHdEh2N1Nyc0tDRWMvRDNXRmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIzODExCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKZ2xqbndyaVo4R1ZaM1pFMFpoVk56THh5b1pGazQrbExmNlBIaUhEU09JTlczMWc2UHdaaFZzM3M2RHlHSmFmNXdOdmhtMTgxV20wVmZOeWtJSEpXRHc9PQo=",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.0/FluxLauncher-0.1.0-macos-arm64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDl1c3czMG96R2g0OU1KbFdubWtSd0NwdnJwcFdybXR2VVlTZHhWSkdkMWd4Qml0OW16c0p1NnRRM20wMTRrVzh6UmYrbXMzbFJlUERwZmdGV2lVdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIzOTE5CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKRHlvYnJiVExsYjRaVTFRaU1QZ0tWMkx2bUNsM3E0VFBWMGwyTFJWSDFkYW9iSlhsaTRSOW9IcUl1ZmJiREwvMkU2Q0tIRHFvdDZHbStOaDk2eXBnQmc9PQo=",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.0/FluxLauncher-0.1.0-windows-x64-setup.exe"
+    }
+  }
+}
