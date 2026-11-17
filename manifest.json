@@ -12,7 +12,11 @@
       "scene": "canyon",
       "note": "Стабильная версия для каждого дня.",
       "recommended": true,
-      "jar": null
+      "jar": {
+        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/v3.1.0/fluxvisuals-3.1.0.jar",
+        "sha256": "95e425b08f6eebeca2113c1f22f1b912a59548e177074b82e41e4ca9cfdf54a9",
+        "size": 63186650
+      }
     },
     {
       "id": "3.0",
