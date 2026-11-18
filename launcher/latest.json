@@ -1,15 +1,15 @@
 {
-  "version": "0.1.13",
-  "notes": "Исправлен краш из-за модов, которым нужен новый Fabric Loader; превью шейдеров",
-  "pub_date": "2026-11-17T21:43:57Z",
+  "version": "0.1.14",
+  "notes": "Новый вид: главная как меню клиента, разделы экранами, шрифт Inter, прогресс скачивания в кнопке «Играть», кнопка обновления у версии слева внизу.",
+  "pub_date": "2026-11-18T10:53:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHkxZWk5eXp4MWc4NG1tbVV6c3dWWDl0aXM0NkYzV0JxYkx0dGdZSGJJaE5Fakl6ZGIwVzgyOU1VcEE2ZWhNZmFnbEYyMWFuSnhvRHJrVFh6WU9tc1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUxNjgxCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEzClJVTERrcWNiQ2VLU3l0dE55WGV6WEhKTEcvNUJaUk9OTStpYXNiaU1RKzVKMjRrVzF0eVZ2Tm8zZUYyQ1JOell3Ykt5Zi9VVnpVRUd5dk90dmYzVkFRPT0K",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.13/FluxLauncher-0.1.13-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHlWNFZqcDIvcE5RTlAwdGsyZ0t6dFIzdnlyZy9yOUl2VjBOcHVmbURVc0twSGZtWGtvWTlteHF5SDY2K1MzdDBlSWdheTFDOXNHYlJQaXJrRmExUlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5MDc1CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE0CnRqYXRxSjVqTXVNRFhyMU5FSUtNODNrdjZJc2NkYjlpSklxbDJFeTljQ3ZGMDRWWEx6U3pFS0RwRjJXWEx6MW02a0R2MlladUJ4QnZ0ZkdTUHl4cUJ3PT0K",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.14/FluxLauncher-0.1.14-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHdFTDUzeUpuaDhUV3lHaXdZais5SkxRUTU4U3lKaGlmQkdvWVZkRHM3UUo0MFBUY1NCMndXZFp6OUtWWU51aVptcVUzUlE3NG4yOWNqMENkbmdSYVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTUxODIxCWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMwp0d1d3ZG55bkFFQkk5NDhpVDExdTY4ZnkyeE5peEczbnJTYTdYd2g3REVsRHBPQWt4d3R0anBUSW9mQXkyODFua0NnQjJMa1Vpd1U2cUQwRUk1OXhEdz09Cg==",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.13/FluxLauncher-0.1.13-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDEzZDByS1hCcnNNaEJ2MTdFWHdoUHAyRzhXTFVhVDlROGZvVXpYN04zWlBoRG5JRHZMRHYxUjBjVUVKRS9WNDVlQW83a09OKzRnZUFHbXcrMlJwb0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5MTk5CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMTRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xNApQbXpCZks0QkhjZ1BCd3N1MHE4RVhKeWYyS3lUQ0dpZ3IvNGJ6dUdMelVMWjh2bWxhd3dsS0IwWUVKc0drSEdGSThWcEd5amtQcWFKWXE0TDNwanVCUT09Cg==",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.14/FluxLauncher-0.1.14-windows-x64-setup.exe"
     }
   }
 }
