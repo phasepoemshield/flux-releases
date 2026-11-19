@@ -1,15 +1,15 @@
 {
-  "version": "0.1.17",
-  "notes": "Новогодняя иконка в Dock и панели задач, кнопка «‹ Меню» без подписи Esc.",
-  "pub_date": "2026-11-19T14:16:14Z",
+  "version": "0.1.18",
+  "notes": "Следующие обновления лаунчер поставит сам, на своём экране, и сам перезапустится\nНовогоднее меню: сияние стало плавным, у крыш пропала тёмная кайма\nНовогодняя F стала розовой, свечение мягче\nЛаунчер ищет обновления каждые 4 часа\nВ настройках, в разделе «О лаунчере», обновление можно проверить вручную",
+  "pub_date": "2026-11-19T16:03:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDUvc0VxQ0l6c2hLZ0p1Y3FWdm9saWFOWFJqTGdCaFppYnpHZnc5eVFPQmkxcGtJazY4SkZ3UGROa1lJSU9lQmhKb0VJcjNnWmNqdWs1cW1wV2FMQ2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3NjM2CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE3Ck80OGtNdkdDN0drNiswVUNlRktNRHQzbXk5Rm5mNEJYdjRqcmsra0dLQnU0UktjU0pWRFZpd05hekpHKzFtd3VXMFRQUDRFTkp2bDF0QTNrdVVNc0JBPT0K",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.17/FluxLauncher-0.1.17-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHpESElhVml5bDZjT2hjTjcrNXJuYlBLc3l1ajY3a0Q2VFo0My93WVpkRzROZnowazJONkJERzZudGpCWGVMdFhkVm5rc0hZa0Z2ZVZ4NHlncmtvbEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA0MDQ3CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE4CmdHcHBJT0swM0w4ZWdwdWZFc0JQZ1cyODNhTjVoL0NjOGtESU10K1pmN05KRUMvaXpNTFN2dXUyVFlKZTd6d3FOMDhONC9vSTZESlkvMkFiZWNFM0RnPT0K",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.18/FluxLauncher-0.1.18-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDJVYmtWdGR4TXgxSmovQzhBbHlpMjh0dzdTZGlsUjBRYUVhK0RiNllFdjcxMnVrbm5sdVhaUWcreEpTTXhhN0pzVUFINFZiaXY5SjQ1UTNZQVFXTndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3NzU4CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMTdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xNwpQbFB6VE9GcnAyM0FoM1o0Z0xSOXFTWkFzUis4d1J0MkhoMkxCampPdUJzWnJ6QWUwVE1TRzU0aXlISEF5d2VaU3h6WWhUQi9ObG9TTFpnOVRVb21DZz09Cg==",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.17/FluxLauncher-0.1.17-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDdwRTdKUm16Szl5Yk1Na203RjduekY1ckxyTzBSMS9GUXY5MVhpdDZHS00vSWJVWDErUktTelY5ZE1HUkJBc2d2QlpwWjg3cW85QkVnY0Nka1hnMndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA0MTk1CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xOAppT3pLcHZXQ1RRMzhRTFBEYzJCRkF6Zk80eWk1YlpDeEQrZXJNTkZBdS9LN1dCWHhDTnFRMHFnSnZFb205RzVRRnV0REgycFRybkVvZDg4a1BRWUZDdz09Cg==",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.18/FluxLauncher-0.1.18-windows-x64-setup.exe"
     }
   }
 }
