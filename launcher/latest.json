@@ -1,15 +1,15 @@
 {
-  "version": "0.1.22",
-  "notes": "При прокрутке каталога появляются следующие моды, ресурспаки и шейдеры.\nНа карточке «Без шейдеров» теперь дневной пейзаж без лишней подписи.",
-  "pub_date": "2026-11-21T15:44:43Z",
+  "version": "0.1.23",
+  "notes": "Карточки остаются на месте, когда каталог подгружает новые результаты.\nКолесо мыши плавно прокручивает списки лаунчера.\nНа карточке «Без шейдеров» теперь панорама из Minecraft.",
+  "pub_date": "2026-11-21T15:58:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDYzd3JxZ0JiTTJIeVBqSGdjNk9wSmdQS2gvYld5VGhyK2VBL2plTXNpRTZBcGlySlltamh2djcvOHBROEVKZzI3T0tMMGdHQ0VpZjFIMk96bDRDOEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc1NjM5CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIyCnk3alpNWDhXSUYvMldUc2p0Zi9UL1NWbGRwZW1ScFNLKzYvcW1XempsaGlwQXZTeWIrcDlJZ0tFOGRDNzgxbjBGNGExem5LSDBCcTJ3ZG9sQXpmTEJnPT0K",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.22/FluxLauncher-0.1.22-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDhUbHp0dU5INnBielhmOE9hYWsxRDdSM08xd0UrVHRvaTA4RTlZQXFXS0JSSnNXVWdpcnFxSmFJTzBuWnRKbjdyd05INGN6anJ0T3lKYXQ2NGFNQUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc2NTUzCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIzCkUraUxKVUtYeExpQW9sa3BsYmVkczlPYnliTU1ldVFMWHVJbEVvdUZZQmp1TnpiTTBmMkNDVUkyVUNXNnhQNldVU0lDVmFHN1VHMFlmTUNFbnZndURRPT0K",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.23/FluxLauncher-0.1.23-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDdvVnNoRytFUjhXNXkyZk83bDRHOFVCZHdEN0ZDOW1mVmpjdUdDbXRDOVF3YjZHMHl2TmVBdDdWdHRjNTRueURmSnhBeGVFUVU4UEp0Y2d5Y3MzdGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc1ODY3CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yMgpKdWd0Y3FrYXdydHpnTGNpSnJvNEJmUm4zUDZzSEIvZkhWWEpZYUtLR0xrcWZYRDB1VDJkQVBqWjdMSlhFUUk5WmRSdEo3cTVxOThWNlJHYjRNbm1CZz09Cg==",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.22/FluxLauncher-0.1.22-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHpSYldYWUR3Q0dmSEZleC9MMXVPL3VFQzVKVGpGWjc3SCtLcVRsWUZidWUzcVQrNmpzVjFsdERWMjhJbmc3VE1nbndVdGZRZ1QyaHBLNlBlRVByR3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc2NjkwCWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yMworOVIyVkdqcGQ4ZEFKNDRudVFLVEFjVmN5a0JSelBUbFFoYVJISDhNVTNOVC9USXJHUnJSNDd6a2hFei9BWkh6U1BIeDRSR2NvaVEraml1K1NVNklBQT09Cg==",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.23/FluxLauncher-0.1.23-windows-x64-setup.exe"
     }
   }
 }
