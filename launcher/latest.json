@@ -1,15 +1,15 @@
 {
-  "version": "0.1.24",
-  "notes": "Косметику можно надевать и снимать в лаунчере и в игре.\nВ beta появились плащи Aurora и Ember. Можно загрузить свой PNG, и его увидят другие игроки Flux.",
-  "pub_date": "2026-11-21T19:31:12Z",
+  "version": "0.1.25",
+  "notes": "В разделе «Косметика» теперь стоит фигура игрока со скином выбранного аккаунта.\nПлащи, шапки, образы, оружие и питомцы сразу видны на персонаже, а фигуру можно крутить мышью.",
+  "pub_date": "2026-11-22T21:03:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDhXbElxT3VDNUppUEJmSHR2K0wzZDE5bDlVS1NUOVgwVG5qVjJSckhrbHppc2xDWUYzNEdZNHZQTnpqTjFoTEIyUk1JTEI2REdkdnJ2TmRlOXRuZkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg5MjM1CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI0ClQ0UHpSM0pRc3oyVVJFdSs5ZkxkNkdkb2Z5MDVuZlE4MWw3ZTlGREt6bWVkN0d6YTI3cVRuZkE1WlZmeEZCblMzTC9BSkVmSWNlNWYwU3ZPWXpjeUN3PT0K",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.24/FluxLauncher-0.1.24-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdC9kVC9ETTBlWEJ1RGo3Uld0My9WZC83a3JnZmtBd3RTSzRtUTFVUGtKY2xJemVEck1hWFAySWhNSmxXK0ZXZzgvdUJTTmRwUU1QbSswWEcxandhQndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzgxMjE5CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI1CndPZnNZV0ZmMnlsZHMzOTZYRXFvNmxTTTh1S2g3N2lPUDlibGhLeGZlZEU0dm5FbFVLM1lPTEk1WkdScDE4V25DeW96d1dydmVHOGhRRGVleW9oNUF3PT0K",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.25/FluxLauncher-0.1.25-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDZJeWJJZ0V0dlhhNHY2cTZkbXVLRlVHWm9iMEZwWmJJdUtVaE5yai9WbmtzZHByMFZieUhBbjF2LzlncFBKbUJEZzFML2JLSTZCSDJ0MGduck93UWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjg5NDU2CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yNApKZ1VIdzVzaUxra0szOTIxTmtFMjdNMmI4WjVtbVhkZ1Z6N25WRitSUXZpSCtkUzVGS1d4TWU3OEN0MXJaRUxGZmVPbXBCOVFCUG1Pd3pyTERiclNEQT09Cg==",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.24/FluxLauncher-0.1.24-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHdYTVQwUFNMVjNvbzlJaXVTMndNR3RHT0NEQnR1YTlxVFk1YkF4SmpCajJ6NS9uRzJJRGszKzIwRTN3SC9BS0NUbmF3TU05K2UzVEhHRHRmVUF1TkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzgxMzc0CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yNQpUdzFqYmIwK2RtZ0FWR2RBUUNacG96S1JMSkU3OUorYjNlUEVETzI3dlorbkNFY2xFanlSNkMrWHhlaElWUjhLYnlkUXJLT3I0ejB3b2ZETHVpTFhCUT09Cg==",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.25/FluxLauncher-0.1.25-windows-x64-setup.exe"
     }
   }
 }
