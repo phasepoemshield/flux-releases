@@ -1,15 +1,15 @@
 {
-  "version": "0.1.29",
-  "notes": "В гардеробе появились отдельные вкладки для крыльев и аксессуаров на спину.\nВ бета-каталоге доступны модели и плащи из PulseVisuals.",
-  "pub_date": "2026-11-23T08:56:34Z",
+  "version": "0.1.30",
+  "notes": "Крылья, аксессуары на спину и новые плащи видны в гардеробе сразу после обновления.",
+  "pub_date": "2026-11-23T09:53:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHd1ZFg0RzhzNWlYOXJGQnptV2RhRkd5Q3FqUnBGakdHd2F0dk9LS1RWU0ZXTEdTOVRucWtuT0JBTlp5R1ZBcGF4ekFQQ2FvcGthS1Z6QkVlV0RqSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI0MDQzCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjI5CllUOGtNQlUvWS9FZGsvbHY1eGUyT2crM083dzh2U0RFTENjMHdiVk9OTU9UM2FCMWdqU1pHb0FJTXlFUUhHRnJRRENNSFprQWd4STlNRk9xUzdmdENRPT0K",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.29/FluxLauncher-0.1.29-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDFPTngwcXd6M2l4cWtjUUNaUmxaUmlwVHlDU1hkanBMREVpSlJLbW1UU1FUZ2hCZ0tqdWNKWHB3bkdWckFHOHBKTnBkYTFld2dNS2Zic1A0SkIwUndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI3NDIyCWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMwCllnam9JUGwrcDgvR0ZrdktESTdadWVVb3lPSm9tUmpnQWs2WlJrNDlKajJEeTRVcEs1MFZDNU1TbjJKVzZkamlyc0JmaVdyemZUajVkcnVocEtyZURRPT0K",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.30/FluxLauncher-0.1.30-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHpYeDF6RXAzalNpNXhQeldzZkhta1c1SUR6ZUU1ekxFZVprZ1FpeUw2NlJZV1ZSUXdsZkxTY1ZtczVUaFZjdHYxOGNacDd0MndjUWVDMzBiN0FjZ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI0MTc3CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yOQpSbVdvcUhxOTdLVjRSZGpTUFhVbjJyNzBaUCtzUGE0UGlYKzE2TGtCWTRGRlJnUjBGT3NBY3BMclI4bm15VkFqY1dtVFBMaW0xUk1wbmJsWjRoQ29Ddz09Cg==",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.29/FluxLauncher-0.1.29-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDl6ODQzMmpSN25uQzNkeDlud2JmM3V4V0ttVUpZZ3ZEN2swK0VOTEFrVkpJMDFBTmt3NzBScnpnSVRBWUdBL1djSkMwV3ZwdFV2b1o5V041WnZjRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI3NTY1CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMzBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zMApFNnFNTkhYTHRsbEQxd2JYcW9NNnZINnhRTENNREFDMjBFVEY1UDBkUVc3dlR1b1ZycjFzMEY2ODBreEo1WFROTVVsaG5mSnZNcllvYlJsZ3Vvd2RCUT09Cg==",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.30/FluxLauncher-0.1.30-windows-x64-setup.exe"
     }
   }
 }
