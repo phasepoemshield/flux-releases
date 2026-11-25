@@ -1,15 +1,15 @@
 {
-  "version": "0.1.32",
-  "notes": "Крылья, спины и питомцы Pulse в примерочной теперь двигаются\nКрылья и питомцы стоят на своих местах\nКартинки Pulse стали чёткими, без серой дымки",
-  "pub_date": "2026-11-24T22:52:05Z",
+  "version": "0.1.33",
+  "notes": "Плащи Pulse в примерочной стали чёткими\nКрылья, рюкзаки и шапки Pulse теперь сидят на своих местах\nШапка и крылья Pulse стали Flux Cap и Flux Wings",
+  "pub_date": "2026-11-25T00:34:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDVJKzhlREpSeHljNjZFR3QwSlM5L1ZRZWx6NVh3cTNDTUNOZWNlMHVURDBnQTM1MlVPRk1yQmtmc2VGaXVveEFUaWVvNVJmdXZiT25yQ0RYZVVud2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYwNTc4CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMyCk8rdlFPVFRRMC82TVI3QUxkb1lmb293cXJuT1pPR2hpWEVsc1hlYzRITEFQOHBabWlzdWpsRnZVUjdEVy9RVE45MlZRVlJLNlYrU3FOZW5rSEZLd0FRPT0K",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.32/FluxLauncher-0.1.32-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHk4M1dzWjBqT0RDQ3M5a0pTclJRUFM1UXA1MHF2NTNYUWtPdmV3NlRhY2NZOUdCZEh6dWtFL0hWem9PTVVlbXZ1QXk2dmVFTkt4L3BtM2IwMm1hWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTY2NzM5CWZpbGU6Rmx1eCBMYXVuY2hlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMzCjFkL05uSEc5TFk1QWVMVnJsSmRFZEtEUXdUMDBSU05rMS9neWVndHRoamFyMTJkdEkySGZUVURyelFZRzFSRFc1T00yUFRSNi9nUnN0dkJsZmFxU0RnPT0K",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.33/FluxLauncher-0.1.33-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdHhLSXpGeEZFSHVIendIT0FkOFJhOE5yWGcxNkFjUjErYU5POXVla2NwOWhrdnE4SUM0UnJaZmlPZ0dOOXNpdFNZODRWT3pLSG1BRjQycU05NTY2M2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYwNzEwCWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMzJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zMgpNKzVIMmVnYlRMV0wvWE5wQmtEUEM5NG9wRmR4anhqS2VCSmd3NytRQURBTFVET2lMUmJhODV5NVdoUUdPMEdKSHBNOGpqeGFsaGdOb3E1STF6RVREUT09Cg==",
-      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.32/FluxLauncher-0.1.32-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTlONkVYZ0RqdDEyRy83RHdxT2UwOTF0QmtLTlZodlI5Z2VtTGovNFlSekVRQVp4aHZYSWZVOXNWUVBqV09sSjJYVnlhVHdta3RZTWdYMVV2TlNIVzNTMFZZMm9SVXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTY2ODY1CWZpbGU6Rmx1eCBMYXVuY2hlcl8wLjEuMzNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zMwpoM2ppbk1CRk1YVHpuTUk1QnYwL0psOUM2bjhoK0NZcmNyd0FXRTBRZkNYdFhDU2VhQUN4OVdQeEtRSVZUSjFlSVdwcnk2TUcvdjJXK2ZHOStQUnVCdz09Cg==",
+      "url": "https://github.com/phasepoemshield/flux-releases/releases/download/launcher-v0.1.33/FluxLauncher-0.1.33-windows-x64-setup.exe"
     }
   }
 }
