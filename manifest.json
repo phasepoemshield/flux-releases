@@ -31,30 +31,30 @@
       "note": "",
       "recommended": false,
       "jar": {
-        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-c3b6c0ac/fluxvisuals-beta.jar",
-        "sha256": "82fadd4bdbb2bade184ddec84ed78f7f5e2ba6becba274a1413b1cbea3896232",
-        "size": 73133818,
+        "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-551d066e/fluxvisuals-beta.jar",
+        "sha256": "8638ff882dddd26f8b8f8c6fd20626459c5ece65052a8f062ffb214c09432944",
+        "size": 73133598,
         "patches": [
+          {
+            "from": "82fadd4bdbb2bade184ddec84ed78f7f5e2ba6becba274a1413b1cbea3896232",
+            "fromUrl": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-c3b6c0ac/fluxvisuals-beta.jar",
+            "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-551d066e/fluxvisuals-beta-from-82fadd4b.zst",
+            "sha256": "742aeafc3330d94b287a0354ab86087f1add87b4afd6599692404536690e53e8",
+            "size": 195930
+          },
           {
             "from": "3105733dda9bf928ac4ebd9501dd9a3542b88679b555ffbbf097eb3949b54a27",
             "fromUrl": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-c44076d7/fluxvisuals-beta.jar",
-            "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-c3b6c0ac/fluxvisuals-beta-from-3105733d.zst",
-            "sha256": "2f53fe1474aa94fa4f15798d6b0169a41071a3a9bd700f439462b5dfaae8bf83",
-            "size": 417057
+            "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-551d066e/fluxvisuals-beta-from-3105733d.zst",
+            "sha256": "9faaaa2126ab7751cdbb5a16c2fd287ed0551da952b6be05e888fb613539cf30",
+            "size": 498994
           },
           {
             "from": "bdacc02464156c067ac7532d79d9f7c1450a1395ac9cb10f1ca491885a7d1f5e",
             "fromUrl": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-4648eadd/fluxvisuals-beta.jar",
-            "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-c3b6c0ac/fluxvisuals-beta-from-bdacc024.zst",
-            "sha256": "3f90dc6b51b42d05d0ca6fa986a818b68faad036c7ae250a35ce7edbad8847c6",
-            "size": 1611372
-          },
-          {
-            "from": "fc9a6d904aabbabddb8c07b7f9d9251829278aed1a195e38826cd709abefb6da",
-            "fromUrl": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-1f1d0047/fluxvisuals-beta.jar",
-            "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-c3b6c0ac/fluxvisuals-beta-from-fc9a6d90.zst",
-            "sha256": "51325afd643abe9701fb85264f8aed084d2c2353997f54e9184b62ddef599d06",
-            "size": 2364615
+            "url": "https://github.com/phasepoemshield/flux-releases/releases/download/beta-2026-11-27-551d066e/fluxvisuals-beta-from-bdacc024.zst",
+            "sha256": "b409f729c5890a9252cd7eae19b819ef24bb743236652bcb7bd2e6efcfeed5cb",
+            "size": 1610744
           }
         ]
       }
